@@ -7,7 +7,7 @@ Since The Boys came out it was a top show that captivated me from the first 5 mi
 1. Although the finale aired at 8:00 am, the Twitter presence of company hashtags did not peak until about 7:00 pm on the 8th. Twitter's presence then dwindled but remained between 200 and 400 tweets per hour for the rest of the weekend.
 2. Our top trending hashtag apart from #TheBoys and #TheBoysFinale was #TheBoysTV. The top trending hashtag unrelated to the show was  #ThorLoveAndThunder. #internetdown was also a highly recurring hashtag, indicating servers may have slowed down or crashed on the release date due to heavy traffic
 3. Homelander was the only character in our top 15 keywords for this social media season.  The only non-English words (2) in the top 15 are Spanish, this implies we have a high demographic of Spanish-speaking viewers.
-4. Our top tweeting location is New York, USA and Brazil and India are the only location in the top 5 not within the USA.
+4. Our top tweeting location is New York, USA and Brazil and India are the only locations in the top 5 not within the USA.
 
 ## Recommendations
 1. Ensure Homelander remains a relevant character with sufficient screentime and lines that continue the progression of his character arcs.
@@ -15,5 +15,5 @@ Since The Boys came out it was a top show that captivated me from the first 5 mi
 3. Include the possibility of an official Spanish dubbed version of the show to increase the already high interest of Spanish-speaking viewers.
 
 
-! [Dashboard1] (The Boys Twitter Popularity and Sentiment Analysis Pg1.jpg)
-! [Dashboard2] (The Boys Twitter Popularity and Sentiment Analysis Pg2.jpg)
+![Dashboard1](<The Boys Twitter Popularity and Sentiment Analysis Pg1.jpg>)
+![Dashboard2](<The Boys Twitter Popularity and Sentiment Analysis Pg2.jpg>)
