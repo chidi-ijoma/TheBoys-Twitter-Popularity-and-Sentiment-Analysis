@@ -34,7 +34,7 @@ TheBoys <- TheBoys %>%
   arrange(created_at)
 
 #Save the tweets in a csv file
-write_as_csv(TheBoys,file_name = "TheBoysRawTweets.csv")
+write_as_csv(TheBoys,file_name = "TheBoysRawTweetsFinal.csv")
 ```
 
 Before I began processing I took a look at the rows and columns selected the ones I needed and answer questions I would ask the data. 
