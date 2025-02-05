@@ -1,4 +1,4 @@
-# TheBoys-Twitter-Popularity-and-Sentiment-Analysis
+# TheBoys Twitter Popularity and Sentiment Analysis
 ## Introduction and Inspiration
 
 Since The Boys came out it was a top show that captivated me from the first 5 minutes. Every year a new season would come out and I would watch it because it had all the elements of a great show. Suspense, drama, betrayal and the works. I wasn't the only one who saw it this way because I logged on to Twitter and saw everyone talking about The Boys and honest to God I was a Twitter addict. So when I began thinking about personal projects and dashboards to create I wanted it to feel personal. I was recently fascinated by a sentiment analysis I saw by The Numerist; a data analyst I frequented her YouTube videos. She did a sentiment analysis on Love Island which other blog posts featured because of the accuracy of her predictions from the sentiment analysis. Now this wasn't a game show like Love Island but I wanted to do a project so why not use the path of her idea for a show I felt strongly about as she did? 
